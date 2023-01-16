@@ -1,0 +1,43 @@
+
+
+body {
+    background: linear-gradient(90deg, transparent, #c527f5); 
+    font: normal 15pt Arial;
+}
+
+
+
+img{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+
+header {
+    color: rgb(0, 0, 0);
+    text-align: center;
+
+
+
+}
+
+section {
+    background: white;
+    border-radius: 18px;   /* Borda arredondada */
+    padding: 15px;  
+    width: 500px;  /* Largura*/
+    margin: auto; /* Centralizado*/
+    box-shadow: 0 15px 25px rgb(89, 17, 206);
+}
+
+div {
+    text-align: center;
+    padding: 8px;
+}
+
+footer{
+
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
