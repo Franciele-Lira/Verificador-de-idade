@@ -3,6 +3,7 @@
 body {
     background: linear-gradient(90deg, transparent, #c527f5); 
     font: normal 15pt Arial;
+    font-family: Comic Sans MS, Comic Sans, cursive;
 }
 
 
@@ -28,6 +29,7 @@ section {
     width: 500px;  /* Largura*/
     margin: auto; /* Centralizado*/
     box-shadow: 0 15px 25px rgb(89, 17, 206);
+    font-family: Comic Sans MS, Comic Sans, cursive;
 }
 
 div {
@@ -40,4 +42,19 @@ footer{
     color: white;
     text-align: center;
     font-style: italic;
+}
+
+section  button{   /*Estilização do botão verificar*/
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 15px 19px rgb(1, 1, 1);
+}
+
+
+section input  { /*Estilizando a barra de digitação do ano e genero*/
+
+    border-radius: 10px;
+    box-shadow: 0 5px 5px rgb(1, 1, 1);
+
+    
 }
